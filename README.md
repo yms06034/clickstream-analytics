@@ -1,5 +1,5 @@
 # clickstream-analytics(java)
-JAVA를 사용해 Log Data를 만들어 실시간 클릭 데이터를 데시보드로 넘기는 Pipeline 프로젝트 입니다.
+JAVA를 사용해 Log Data를 만들어 실시간 클릭 데이터를 대시보드로 넘기는 Pipeline 프로젝트 입니다.
 
 ## Description
 본 프로젝트는 Kafka와 Flink를 활용할 수 있는 방안을 생각해 진행한 프로젝트 입니다.
